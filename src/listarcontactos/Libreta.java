@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Miguel
+ * @author Adrián
  */
 public class Libreta {
 
